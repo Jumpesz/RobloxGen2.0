@@ -1,4 +1,4 @@
-# RobloxGen1.0
+# RobloxGen2.0
 
 Este script Python automatiza a criação de contas Roblox com nomes de usuário únicos e senhas seguras.  
 O principal objetivo deste projeto é educacional, demonstrando o uso de automação web com Selenium e a manipulação de dados com Python.
